@@ -28,7 +28,7 @@
   "bin": {
     "node-boilerplate": "./bin/node-boilerplate"
   },
-  "scripts":{
+  "scripts": {
     "test": "make test"
   },
   "licenses": [
