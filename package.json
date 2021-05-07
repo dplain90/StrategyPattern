@@ -10,7 +10,7 @@
   "private": false,
   "author": "Alex Ehrnschwender <alexanderscott46@gmail.com> (http://alexehrnschwender.com)",
   "dependencies": {
-    "underscore": "~1.5.2",
+    "underscore": "~1.12.1",
     "winston": "~0.7.2",
     "async": "~0.2.9",
     "iniparser": "~1.0.5",
