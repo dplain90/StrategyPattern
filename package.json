@@ -12,7 +12,7 @@
   "dependencies": {
     "underscore": "~1.5.2",
     "winston": "~0.7.2",
-    "async": "~0.2.9",
+    "async": "~2.6.4",
     "iniparser": "~1.0.5",
     "wrench": "~1.5.4"
   },
