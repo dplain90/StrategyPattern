@@ -11,13 +11,13 @@
   "author": "Alex Ehrnschwender <alexanderscott46@gmail.com> (http://alexehrnschwender.com)",
   "dependencies": {
     "underscore": "~1.5.2",
-    "winston": "~0.7.2",
+    "winston": "~3.8.2",
     "async": "~0.2.9",
     "iniparser": "~1.0.5",
     "wrench": "~1.5.4"
   },
   "devDependencies": {
-    "supertest": "0.5.x",
+    "supertest": "6.3.x",
     "mocha": "1.8.x",
     "should": "1.2.x"
   },
