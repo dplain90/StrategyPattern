@@ -17,7 +17,7 @@
     "wrench": "~1.5.4"
   },
   "devDependencies": {
-    "supertest": "0.5.x",
+    "supertest": "6.3.x",
     "mocha": "1.8.x",
     "should": "1.2.x"
   },
